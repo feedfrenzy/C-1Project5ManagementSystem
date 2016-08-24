@@ -1,0 +1,112 @@
+c:\users\tue98990\documents\visual studio 2012\Projects\ManagementSystem\ManagementSystem\bin\Debug\ManagementSystem.exe.config
+c:\users\tue98990\documents\visual studio 2012\Projects\ManagementSystem\ManagementSystem\bin\Debug\ManagementSystem.exe
+c:\users\tue98990\documents\visual studio 2012\Projects\ManagementSystem\ManagementSystem\bin\Debug\ManagementSystem.pdb
+c:\users\tue98990\documents\visual studio 2012\Projects\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.csprojResolveAssemblyReference.cache
+c:\users\tue98990\documents\visual studio 2012\Projects\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.frmEmployee.resources
+c:\users\tue98990\documents\visual studio 2012\Projects\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.frmManagementSystem.resources
+c:\users\tue98990\documents\visual studio 2012\Projects\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.frmManager.resources
+c:\users\tue98990\documents\visual studio 2012\Projects\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.Properties.Resources.resources
+c:\users\tue98990\documents\visual studio 2012\Projects\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.csproj.GenerateResource.Cache
+c:\users\tue98990\documents\visual studio 2012\Projects\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.exe
+c:\users\tue98990\documents\visual studio 2012\Projects\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.pdb
+E:\ManagementSystem\ManagementSystem\bin\Debug\ManagementSystem.exe.config
+E:\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.exe
+E:\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.pdb
+E:\ManagementSystem\ManagementSystem\bin\Debug\ManagementSystem.exe
+E:\ManagementSystem\ManagementSystem\bin\Debug\ManagementSystem.pdb
+E:\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.csprojResolveAssemblyReference.cache
+E:\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.frmEmployee.resources
+E:\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.frmManagementSystem.resources
+E:\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.frmManager.resources
+E:\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.Properties.Resources.resources
+E:\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.csproj.GenerateResource.Cache
+G:\ManagementSystem\ManagementSystem\bin\Debug\ManagementSystem.exe.config
+G:\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.exe
+G:\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.pdb
+G:\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.csprojResolveAssemblyReference.cache
+G:\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.frmEmployee.resources
+G:\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.frmManagementSystem.resources
+G:\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.frmManager.resources
+G:\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.Properties.Resources.resources
+G:\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.csproj.GenerateResource.Cache
+G:\ManagementSystem\ManagementSystem\bin\Debug\ManagementSystem.exe
+G:\ManagementSystem\ManagementSystem\bin\Debug\ManagementSystem.pdb
+C:\Users\tue98990\Downloads\ManagementSystem\bin\Debug\ManagementSystem.exe.config
+C:\Users\tue98990\Downloads\ManagementSystem\obj\Debug\ManagementSystem.exe
+C:\Users\tue98990\Downloads\ManagementSystem\obj\Debug\ManagementSystem.pdb
+C:\Users\tue98990\Downloads\ManagementSystem\bin\Debug\ManagementSystem.exe
+C:\Users\tue98990\Downloads\ManagementSystem\bin\Debug\ManagementSystem.pdb
+C:\Users\tue98990\Downloads\ManagementSystem\obj\Debug\ManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\tue98990\Downloads\ManagementSystem\obj\Debug\ManagementSystem.frmEmployee.resources
+C:\Users\tue98990\Downloads\ManagementSystem\obj\Debug\ManagementSystem.frmManagementSystem.resources
+C:\Users\tue98990\Downloads\ManagementSystem\obj\Debug\ManagementSystem.frmManager.resources
+C:\Users\tue98990\Downloads\ManagementSystem\obj\Debug\ManagementSystem.Properties.Resources.resources
+C:\Users\tue98990\Downloads\ManagementSystem\obj\Debug\ManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Taekyu\Downloads\Downloads\ManagementSystem\bin\Debug\ManagementSystem.exe.config
+C:\Users\Taekyu\Downloads\Downloads\ManagementSystem\obj\Debug\ManagementSystem.exe
+C:\Users\Taekyu\Downloads\Downloads\ManagementSystem\obj\Debug\ManagementSystem.pdb
+C:\Users\Taekyu\Downloads\Downloads\ManagementSystem\bin\Debug\ManagementSystem.exe
+C:\Users\Taekyu\Downloads\Downloads\ManagementSystem\bin\Debug\ManagementSystem.pdb
+C:\Users\Taekyu\Downloads\Downloads\ManagementSystem\obj\Debug\ManagementSystem.frmEmployee.resources
+C:\Users\Taekyu\Downloads\Downloads\ManagementSystem\obj\Debug\ManagementSystem.frmManagementSystem.resources
+C:\Users\Taekyu\Downloads\Downloads\ManagementSystem\obj\Debug\ManagementSystem.frmManager.resources
+C:\Users\Taekyu\Downloads\Downloads\ManagementSystem\obj\Debug\ManagementSystem.Properties.Resources.resources
+C:\Users\Taekyu\Downloads\Downloads\ManagementSystem\obj\Debug\ManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Taekyu\Desktop\Downloads\ManagementSystem\bin\Debug\ManagementSystem.exe.config
+C:\Users\Taekyu\Desktop\Downloads\ManagementSystem\obj\Debug\ManagementSystem.exe
+C:\Users\Taekyu\Desktop\Downloads\ManagementSystem\obj\Debug\ManagementSystem.pdb
+C:\Users\Taekyu\Desktop\Downloads - 복사본 - 복사본\ManagementSystem\bin\Debug\ManagementSystem.exe.config
+C:\Users\Taekyu\Desktop\Downloads - 복사본 - 복사본\ManagementSystem\obj\Debug\ManagementSystem.exe
+C:\Users\Taekyu\Desktop\Downloads - 복사본 - 복사본\ManagementSystem\obj\Debug\ManagementSystem.pdb
+C:\Users\Taekyu\Desktop\Downloads - 복사본 - 복사본\ManagementSystem\bin\Debug\ManagementSystem.exe
+C:\Users\Taekyu\Desktop\Downloads - 복사본 - 복사본\ManagementSystem\bin\Debug\ManagementSystem.pdb
+C:\Users\Taekyu\Desktop\Downloads - 복사본 - 복사본\ManagementSystem\obj\Debug\ManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Taekyu\Desktop\Downloads - 복사본 - 복사본\ManagementSystem\obj\Debug\ManagementSystem.frmEmployee.resources
+C:\Users\Taekyu\Desktop\Downloads - 복사본 - 복사본\ManagementSystem\obj\Debug\ManagementSystem.frmManagementSystem.resources
+C:\Users\Taekyu\Desktop\Downloads - 복사본 - 복사본\ManagementSystem\obj\Debug\ManagementSystem.frmManager.resources
+C:\Users\Taekyu\Desktop\Downloads - 복사본 - 복사본\ManagementSystem\obj\Debug\ManagementSystem.Properties.Resources.resources
+C:\Users\Taekyu\Desktop\Downloads - 복사본 - 복사본\ManagementSystem\obj\Debug\ManagementSystem.csproj.GenerateResource.Cache
+G:\Downloads - 복사본 - 복사본\ManagementSystem\bin\Debug\ManagementSystem.exe.config
+G:\Downloads - 복사본 - 복사본\ManagementSystem\obj\Debug\ManagementSystem.exe
+G:\Downloads - 복사본 - 복사본\ManagementSystem\obj\Debug\ManagementSystem.pdb
+F:\Downloads - 복사본 - 복사본\ManagementSystem\bin\Debug\ManagementSystem.exe.config
+F:\Downloads - 복사본 - 복사본\ManagementSystem\obj\Debug\ManagementSystem.exe
+F:\Downloads - 복사본 - 복사본\ManagementSystem\obj\Debug\ManagementSystem.pdb
+F:\Downloads - 복사본 - 복사본\ManagementSystem\bin\Debug\ManagementSystem.exe
+F:\Downloads - 복사본 - 복사본\ManagementSystem\bin\Debug\ManagementSystem.pdb
+F:\Downloads - 복사본 - 복사본\ManagementSystem\obj\Debug\ManagementSystem.csprojResolveAssemblyReference.cache
+F:\Downloads - 복사본 - 복사본\ManagementSystem\obj\Debug\ManagementSystem.frmEmployee.resources
+F:\Downloads - 복사본 - 복사본\ManagementSystem\obj\Debug\ManagementSystem.frmManagementSystem.resources
+F:\Downloads - 복사본 - 복사본\ManagementSystem\obj\Debug\ManagementSystem.frmManager.resources
+F:\Downloads - 복사본 - 복사본\ManagementSystem\obj\Debug\ManagementSystem.Properties.Resources.resources
+F:\Downloads - 복사본 - 복사본\ManagementSystem\obj\Debug\ManagementSystem.csproj.GenerateResource.Cache
+G:\Management\ManagementSystem\bin\Debug\ManagementSystem.exe.config
+G:\Management\ManagementSystem\obj\Debug\ManagementSystem.exe
+G:\Management\ManagementSystem\obj\Debug\ManagementSystem.pdb
+G:\Management\ManagementSystem\bin\Debug\ManagementSystem.exe
+G:\Management\ManagementSystem\bin\Debug\ManagementSystem.pdb
+G:\Management\ManagementSystem\obj\Debug\ManagementSystem.csprojResolveAssemblyReference.cache
+G:\Management\ManagementSystem\obj\Debug\ManagementSystem.frmEmployee.resources
+G:\Management\ManagementSystem\obj\Debug\ManagementSystem.frmManagementSystem.resources
+G:\Management\ManagementSystem\obj\Debug\ManagementSystem.frmManager.resources
+G:\Management\ManagementSystem\obj\Debug\ManagementSystem.Properties.Resources.resources
+G:\Management\ManagementSystem\obj\Debug\ManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\Lab 5 Complete\ManagementSystem\bin\Debug\ManagementSystem.exe.config
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\Lab 5 Complete\ManagementSystem\obj\Debug\ManagementSystem.exe
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\Lab 5 Complete\ManagementSystem\obj\Debug\ManagementSystem.pdb
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\Lab 5 Complete\ManagementSystem\bin\Debug\ManagementSystem.exe
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\Lab 5 Complete\ManagementSystem\bin\Debug\ManagementSystem.pdb
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\Lab 5 Complete\ManagementSystem\obj\Debug\ManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\Lab 5 Complete\ManagementSystem\obj\Debug\ManagementSystem.frmEmployee.resources
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\Lab 5 Complete\ManagementSystem\obj\Debug\ManagementSystem.frmManagementSystem.resources
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\Lab 5 Complete\ManagementSystem\obj\Debug\ManagementSystem.frmManager.resources
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\Lab 5 Complete\ManagementSystem\obj\Debug\ManagementSystem.Properties.Resources.resources
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\Lab 5 Complete\ManagementSystem\obj\Debug\ManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\CIS 3309\Lab 5 Complete\ManagementSystem\bin\Debug\ManagementSystem.exe.config
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\CIS 3309\Lab 5 Complete\ManagementSystem\obj\Debug\ManagementSystem.exe
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\CIS 3309\Lab 5 Complete\ManagementSystem\obj\Debug\ManagementSystem.pdb
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\CIS 3309\Lab 5 Complete\ManagementSystem\obj\Debug\ManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\CIS 3309\Lab 5 Complete\ManagementSystem\obj\Debug\ManagementSystem.frmEmployee.resources
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\CIS 3309\Lab 5 Complete\ManagementSystem\obj\Debug\ManagementSystem.frmManagementSystem.resources
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\CIS 3309\Lab 5 Complete\ManagementSystem\obj\Debug\ManagementSystem.frmManager.resources
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\CIS 3309\Lab 5 Complete\ManagementSystem\obj\Debug\ManagementSystem.csproj.GenerateResource.Cache
